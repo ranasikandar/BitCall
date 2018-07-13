@@ -1,0 +1,14 @@
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\DAL\bin\Debug\DAL.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\DAL\bin\Debug\DAL.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\DAL\bin\Debug\Obj.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\DAL\bin\Debug\Obj.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\DAL\obj\Debug\DAL.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\DAL\obj\Debug\DAL.pdb
+E:\Projects\BitCalls\DAL\bin\Debug\DAL.dll
+E:\Projects\BitCalls\DAL\bin\Debug\DAL.pdb
+E:\Projects\BitCalls\DAL\bin\Debug\Obj.dll
+E:\Projects\BitCalls\DAL\bin\Debug\Obj.pdb
+E:\Projects\BitCalls\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Projects\BitCalls\DAL\obj\Debug\DAL.dll
+E:\Projects\BitCalls\DAL\obj\Debug\DAL.pdb

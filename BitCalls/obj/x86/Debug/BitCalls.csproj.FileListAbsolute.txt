@@ -1,0 +1,78 @@
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptAddressReport.rpt
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptAddressReport.cs
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\BitCalls.exe.config
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\BitCalls.exe
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\BitCalls.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Bll.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Obj.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\DAL.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Bll.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Obj.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\DAL.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.csprojResolveAssemblyReference.cache
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.CallRecords.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.FrmCategory.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.FrmAddressBook.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.FrmAddressBookReport.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.RptViewer.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Main.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Properties.Resources.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.csproj.GenerateResource.Cache
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.exe
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.FrmCallRecordsReport.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptCallRecordsReport.rpt
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptCallRecordsReport.cs
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmConnectionCheck.resources
+E:\Projects\BitCalls\BitCalls\bin\Debug\BitCalls.exe.config
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.exe
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.pdb
+E:\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptAddressReport.rpt
+E:\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptCallRecordsReport.rpt
+E:\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptAddressReport.cs
+E:\Projects\BitCalls\BitCalls\bin\Debug\Reports\rptCallRecordsReport.cs
+E:\Projects\BitCalls\BitCalls\bin\Debug\BitCalls.exe
+E:\Projects\BitCalls\BitCalls\bin\Debug\BitCalls.pdb
+E:\Projects\BitCalls\BitCalls\bin\Debug\Bll.dll
+E:\Projects\BitCalls\BitCalls\bin\Debug\Obj.dll
+E:\Projects\BitCalls\BitCalls\bin\Debug\DAL.dll
+E:\Projects\BitCalls\BitCalls\bin\Debug\Bll.pdb
+E:\Projects\BitCalls\BitCalls\bin\Debug\Obj.pdb
+E:\Projects\BitCalls\BitCalls\bin\Debug\DAL.pdb
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.csprojResolveAssemblyReference.cache
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.CallRecords.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.FrmCategory.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.FrmAddressBook.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmConnectionCheck.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.FrmAddressBookReport.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.FrmCallRecordsReport.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.RptViewer.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Main.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Properties.Resources.resources
+E:\Projects\BitCalls\BitCalls\obj\x86\Debug\BitCalls.csproj.GenerateResource.Cache
+C:\git\BitCalls\BitCalls\bin\Debug\BitCalls.exe.config
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.exe
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.pdb
+C:\git\BitCalls\BitCalls\bin\Debug\Reports\rptAddressReport.rpt
+C:\git\BitCalls\BitCalls\bin\Debug\Reports\rptCallRecordsReport.rpt
+C:\git\BitCalls\BitCalls\bin\Debug\Reports\rptAddressReport.cs
+C:\git\BitCalls\BitCalls\bin\Debug\Reports\rptCallRecordsReport.cs
+C:\git\BitCalls\BitCalls\bin\Debug\BitCalls.exe
+C:\git\BitCalls\BitCalls\bin\Debug\BitCalls.pdb
+C:\git\BitCalls\BitCalls\bin\Debug\Bll.dll
+C:\git\BitCalls\BitCalls\bin\Debug\Obj.dll
+C:\git\BitCalls\BitCalls\bin\Debug\DAL.dll
+C:\git\BitCalls\BitCalls\bin\Debug\Bll.pdb
+C:\git\BitCalls\BitCalls\bin\Debug\Obj.pdb
+C:\git\BitCalls\BitCalls\bin\Debug\DAL.pdb
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.csprojResolveAssemblyReference.cache
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.CallRecords.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.FrmCategory.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.FrmAddressBook.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmConnectionCheck.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.FrmAddressBookReport.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.FrmCallRecordsReport.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Forms.FrmReports.RptViewer.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Main.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.Properties.Resources.resources
+C:\git\BitCalls\BitCalls\obj\x86\Debug\BitCalls.csproj.GenerateResource.Cache

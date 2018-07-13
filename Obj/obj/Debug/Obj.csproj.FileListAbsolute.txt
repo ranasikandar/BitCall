@@ -1,0 +1,8 @@
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\Obj\bin\Debug\Obj.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\Obj\bin\Debug\Obj.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\Obj\obj\Debug\Obj.dll
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\BitCalls\Obj\obj\Debug\Obj.pdb
+E:\Projects\BitCalls\Obj\bin\Debug\Obj.dll
+E:\Projects\BitCalls\Obj\bin\Debug\Obj.pdb
+E:\Projects\BitCalls\Obj\obj\Debug\Obj.dll
+E:\Projects\BitCalls\Obj\obj\Debug\Obj.pdb
